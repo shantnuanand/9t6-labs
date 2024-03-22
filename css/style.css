@@ -10295,7 +10295,7 @@ h2.title-modern > span {
 
 .clients-classic img {
 	width: 100%;
-	opacity: .5;
+	/* opacity: .5; */
 }
 
 @media (min-width: 992px) {
